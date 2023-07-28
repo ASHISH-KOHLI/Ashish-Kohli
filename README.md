@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nodejs Project<br>🌱 I’m currently learning Javascript & Nodejs<br>
+🔭 I’m currently working on Nodejs Project<br>🌱 I’m currently learning MERN<br> 
 
 
 ## 🌐 Socials:

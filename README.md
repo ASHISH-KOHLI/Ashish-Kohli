@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning Golang and linux<br> 
-🔭 I’m currently working on go<br>
+🌱 DevOps Engineer<br> 
+
 
 
 ## 🌐 Socials:

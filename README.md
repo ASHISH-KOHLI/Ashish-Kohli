@@ -94,31 +94,11 @@ spec:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ASHISH-KOHLI&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASHISH-KOHLI&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

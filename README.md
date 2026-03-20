@@ -10,29 +10,15 @@
 ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
 ```
 
-# Hey there! I'm Ashish Kohli 👋🚀
+# Hey there! I'm Ashish Kohli 
 
-### 🛠️ DevOps Engineer | Infrastructure Whisperer | Automation Addict
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A8&center=true&vCenter=true&width=500&lines=Deploying+at+the+speed+of+thought+⚡;Infrastructure+as+Code+enthusiast+🏗️;CI%2FCD+pipeline+craftsman+🔧;Kubernetes+cluster+tamer+☸️;Breaking+things+so+you+don't+have+to+😄)](https://git.io/typing-svg)
+###  DevOps Engineer | Automation Addict
 
 </div>
 
----
 
-## 💡 Motivation of the Day
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
-> 🔁 *Come back tomorrow for a fresh dose of wisdom!*
-
----
-
-## 👨‍💻 About Me
+##  About Me
 
 ```yaml
 apiVersion: human/v1
@@ -44,11 +30,11 @@ spec:
   role: DevOps Engineer
   location: India 🇮🇳
   currentFocus:
-    - Automating everything that moves 🤖
-    - Keeping clusters alive and happy ☸️
-    - Making deployments boring (in a good way) 🟢
-  funFact: "I talk to servers, sometimes they listen 🙃"
-  status: "Always on-call... mentally 📟"
+    - Automating everything that moves 
+    - Keeping clusters alive and happy 
+    - Making deployments boring (in a good way) 
+  funFact: "I talk to servers, sometimes they listen "
+  status: "Always on-call... mentally "
 ```
 
 ---
@@ -79,7 +65,7 @@ spec:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -93,7 +79,7 @@ spec:
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -103,7 +89,7 @@ spec:
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -117,10 +103,23 @@ spec:
 
 <div align="center">
 
-### 💬 *"Automate the boring stuff, ship the awesome stuff."*
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ASHISH-KOHLI&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
-⭐️ *If you like what you see, drop a star on something!* ⭐️
+
 
 </div>
+
+
+##  Motivation of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+>  *Come back tomorrow for a fresh dose of wisdom!*
+
+---

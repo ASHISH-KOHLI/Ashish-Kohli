@@ -24,7 +24,6 @@
 
 <div align="center">
 
-<!-- Quotes rotate based on day of year -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
@@ -119,7 +118,7 @@ spec:
 
 <div align="center">
 
-![Snake animation](https://github.com/ASHISH-KOHLI/ASHISH-KOHLI/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

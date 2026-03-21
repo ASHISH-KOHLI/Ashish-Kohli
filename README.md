@@ -63,29 +63,18 @@ spec:
 
 </div>
 
----
 
-##  GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHISH-KOHLI&theme=radical&hide_border=true" width="48%" />
+<h2>&#x1f4c8; GitHub Stats</h2>
+<p align="left">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASHISH-KOHLI&theme=tokyonight" width="30%">
+  &nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASHISH-KOHLI&theme=tokyonight" width="60%" />
+</p>
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHISH-KOHLI&layout=compact&theme=radical&hide_border=true" width="40%" />
 
-</div>
-
----
-
-##  Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASHISH-KOHLI&theme=react-dark&hide_border=true)
-
-</div>
 
 ---
 
